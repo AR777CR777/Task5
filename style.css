@@ -1,0 +1,65 @@
+h1{
+    padding: 0px  10px 40px 5px;
+}
+
+.shape1{ 
+    display: inline;
+    padding: 15px  25px 15px 25px;
+    margin: 10px;
+    border: 5px solid red;
+    outline-style: solid;
+    outline-width: 5px;
+}
+
+.shape2{
+    display: inline;
+    padding: 15px  25px 15px 25px;
+    margin: 10px;
+    border: 5px solid;
+    border-top-color: rgb(0, 0, 255);
+    border-left-color: rgb(0, 128, 0);
+    border-right-color:rgb(0, 128, 0);
+    border-bottom-color: rgb(0, 0, 255) ;
+    outline-style: solid;
+    outline-width: 5px;
+}
+
+.shape3{
+    display: inline;
+    padding: 15px  25px 15px 25px;
+    margin: 10px;
+    border: 5px dashed;
+    border-top-color: rgb(255, 0, 0);
+    border-left-color: rgb(255, 255, 0);
+    border-right-color:rgb(0, 128, 0);
+    border-bottom-color: rgb(0, 0, 255) ;
+    outline-style: solid;
+    outline-width: 5px;
+
+}
+
+.element-1{
+    
+    border-left: 5px solid rgb(156, 11, 11);
+    background-color: rgb(211, 221, 221);
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    width: 400px;
+    
+}
+.element-2{
+       
+    border-left: 5px solid rgb(0, 128, 0);
+    background-color: rgb(211, 221, 221);
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    width: 400px;
+    visibility: hidden;
+}
+.element-3{
+    border-left: 5px solid rgb(34, 151, 136);
+    background-color: rgb(211, 221, 221);
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    width: 400px;
+}
